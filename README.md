@@ -1,7 +1,7 @@
 # <p align="center">⚓ Anchoring the Widom Line 💧</p>
 ## <p align="center">_Formal Verification of the 1.95°C Liquid-Liquid Transition in Ambient Water_</p>
 
-## 📖 Overview
+📖 Overview
 Liquid water's anomalous behavior remains a fundamental mystery in condensed matter physics. This repository contains the computational analysis and formal verification confirming recent research that water is not a single liquid but a mix of two distinct liquid states, a low-density liquid (LDL) and a high-density liquid (HDL), that constantly transition into one another. By performing a second-derivative analysis on the IAPWS-95 thermodynamic standard, we identify a definitive structural signature: a sharp inflection in the second derivative of the specific heat capacity ratio ($\gamma = C_P/C_V$). This research provides a model-independent proof of the underlying two-liquid nature of water by anchoring the Widom line at $1.95^\circ\text{C}$. The inflection point detected at this temperature is a physical signature of the Widom line crossing the atmospheric pressure isobar, proving that the influence of the Liquid-Liquid Critical Point (LLCP) extends into the stable liquid phase. This provides a rigorous mathematical foundation for water's structural anomalies, such as its density maximum at $4^\circ\text{C}$.
 
 <div align="center">
