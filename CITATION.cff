@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Please cite this research as follows."
+authors:
+  - name: "Jonathan ƒ(n)"
+title: "Anchoring the Widom Line: Formal Verification of the 1.95°C Liquid-Liquid Transition in Ambient Water"
+version: 1.0.0
+doi: 10.5281/zenodo.21387145
+date-released: 2026-07-16
